@@ -1,0 +1,7 @@
+filename	Chernobyl_disaster.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Chernobyl_disaster.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Chernobyl_disaster.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Chernobyl_disaster.txt.eos.tok
+judge	NONE

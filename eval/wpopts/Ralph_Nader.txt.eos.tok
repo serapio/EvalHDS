@@ -1,0 +1,7 @@
+filename	Ralph_Nader.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Ralph_Nader.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Ralph_Nader.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Ralph_Nader.txt.eos.tok
+judge	NONE

@@ -1,0 +1,7 @@
+filename	Television.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Television.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Television.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Television.txt.eos.tok
+judge	NONE

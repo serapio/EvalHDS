@@ -1,0 +1,7 @@
+filename	Ronald_Reagan.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Ronald_Reagan.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Ronald_Reagan.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Ronald_Reagan.txt.eos.tok
+judge	NONE

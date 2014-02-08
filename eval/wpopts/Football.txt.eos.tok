@@ -1,0 +1,7 @@
+filename	Football.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Football.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Football.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Football.txt.eos.tok
+judge	NONE

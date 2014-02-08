@@ -1,0 +1,7 @@
+filename	Shroud_of_Turin.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Shroud_of_Turin.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Shroud_of_Turin.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Shroud_of_Turin.txt.eos.tok
+judge	NONE

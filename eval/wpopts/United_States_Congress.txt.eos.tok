@@ -1,0 +1,7 @@
+filename	United_States_Congress.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/United_States_Congress.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/United_States_Congress.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/United_States_Congress.txt.eos.tok
+judge	NONE

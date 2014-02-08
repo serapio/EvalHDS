@@ -1,0 +1,7 @@
+filename	Schr%C3%B6dinger_equation.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Schr%C3%B6dinger_equation.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Schr%C3%B6dinger_equation.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Schr%C3%B6dinger_equation.txt.eos.tok
+judge	NONE

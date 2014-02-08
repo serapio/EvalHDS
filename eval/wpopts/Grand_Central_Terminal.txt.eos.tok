@@ -1,0 +1,7 @@
+filename	Grand_Central_Terminal.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Grand_Central_Terminal.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Grand_Central_Terminal.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Grand_Central_Terminal.txt.eos.tok
+judge	NONE

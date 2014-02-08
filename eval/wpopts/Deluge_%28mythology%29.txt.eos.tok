@@ -1,0 +1,7 @@
+filename	Deluge_%28mythology%29.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Deluge_%28mythology%29.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Deluge_%28mythology%29.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Deluge_%28mythology%29.txt.eos.tok
+judge	NONE

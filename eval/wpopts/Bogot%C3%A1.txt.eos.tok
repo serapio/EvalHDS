@@ -1,0 +1,7 @@
+filename	Bogot%C3%A1.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Bogot%C3%A1.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Bogot%C3%A1.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Bogot%C3%A1.txt.eos.tok
+judge	NONE

@@ -1,0 +1,7 @@
+filename	Transport.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Transport.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Transport.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Transport.txt.eos.tok
+judge	NONE

@@ -1,0 +1,7 @@
+filename	Mount_Vesuvius.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Mount_Vesuvius.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Mount_Vesuvius.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Mount_Vesuvius.txt.eos.tok
+judge	NONE

@@ -1,0 +1,7 @@
+filename	Names_of_God_in_Judaism.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Names_of_God_in_Judaism.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Names_of_God_in_Judaism.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Names_of_God_in_Judaism.txt.eos.tok
+judge	NONE

@@ -1,0 +1,119 @@
+=====0=====
+In physics , the Schrödinger equation , proposed by the Austrian physicist Erwin Schrödinger in 1925 , describes the space- and time-dependence of quantum mechanical systems . It is of 
+=====42=====
+central importance to the theory of quantum mechanics , playing a role analogous to Newton 's second law in classical mechanics . In the mathematical formulation of quantum mechanics , each 
+=====20=====
+system is associated with a complex Hilbert space such that each instantaneous state of the system is described by a unit vector in that space . This state vector encodes the probabilities 
+=====2=====
+for the outcomes of all possible measurements applied to the system . As the state of a system generally changes over time , the state vector is a function of time . The Schrödinger equation 
+provides a quantitative description of the rate of change of the state vector . Using Dirac 's bra-ket notation , the definition of energy results in the time derivative operator : at time 
+=====24=====
+t by . The Schrödinger equation is where i is the imaginary unit , t is time , is the partial derivative with respect to t , is the reduced Planck 's constant ( Planck 's constant divided 
+=====36=====
+by 2π ) , ψ ( t ) is the wave function , and is the Hamiltonian ( a self-adjoint operator acting on the state space ) . The Hamiltonian describes the total energy of the system . As with 
+=====10=====
+the force occurring in Newton 's second law , its exact form is not provided by the Schrödinger equation , and must be independently determined based on the physical properties of the 
+=====17=====
+system . For many real-world problems the energy operator H does not depend on time . Then it can be shown that the time-dependent Schrödinger equation simplifies to the time-independent 
+Schrödinger equation , which—as we will discuss—has the well-known appearance H Ψ = E Ψ . An example of a simple one-dimensional time-independent Schrödinger equation for a particle 
+=====41=====
+of mass m , moving in a potential U ( x ) is : The analogous 3-dimensional time-independent equation is , : For every time-independent Hamiltonian , H , there exists a set of quantum states 
+=====27=====
+, , known as energy eigenstates , and corresponding real numbers E n satisfying the eigenvalue equation , Such a state possesses a definite total energy , whose value E n is the eigenvalue 
+=====43=====
+of the Hamiltonian . The corresponding eigenvector is normalizable to unity . This eigenvalue equation is referred to as the time-independent Schrödinger equation . We purposely left out 
+=====7=====
+the variable ( s ) on which the wavefunction depends . In the first example above it depends on the single variable x and in the second on x , y , and z —the components of the vector r 
+=====29=====
+. In both cases the Schrödinger equation has the same appearance , but its Hamilton operator is defined on different function ( state , Hilbert ) spaces . In the first example the function 
+space consists of functions of one variable and in the second example the function space consists of functions of three variables . Self-adjoint operators , such as the Hamiltonian , have 
+=====6=====
+the property that their eigenvalues are always real numbers , as we would expect , since the energy is a physically observable quantity . Sometimes more than one linearly independent state 
+=====45=====
+vector corresponds to the same energy E n . If the maximum number of linearly independent eigenvectors corresponding to E n equals k , we say that the energy level E n is k-fold degenerate 
+=====8=====
+. When k=1 the energy level is called non-degenerate . On inserting a solution of the time-independent Schrödinger equation into the full Schrödinger equation , we get It is relatively easy 
+to solve this equation . One finds that the energy eigenstates ( i . e . , solutions of the time-independent Schrödinger equation ) change as a function of time only trivially , namely , 
+=====22=====
+only by a complex phase : It immediately follows that the probability amplitude , is time-independent . Because of a similar cancellation of phase factors in bra and ket , all average ( 
+=====37=====
+expectation ) values of time-independent observables ( physical quantities ) computed from are time-independent . Energy eigenstates are convenient to work with because they form a complete 
+=====11=====
+set of states . That is , the eigenvectors form a basis for the state space . We introduced here the short-hand notation . Then any state vector that is a solution of the time-dependent 
+=====23=====
+Schrödinger equation ( with a time-independent H ) can be written as a linear superposition of energy eigenstates : 
+=====32=====
+( The last equation enforces the requirement that , like all state vectors , may be normalized to a unit vector . ) Applying the Hamiltonian operator to each side of the first equation , 
+=====44=====
+the time-dependent Schrödinger equation in the left-hand side and using the fact that the energy basis vectors are by definition linearly independent , we readily obtain 
+=====14=====
+Therefore , if we know the decomposition of into the energy basis at time t = 0 , its value at any subsequent time is given simply by Note that when some values are not equal to zero for 
+=====54=====
+differing energy values , the left-hand side is not an eigenvector of the energy operator H . The left-hand is an eigenvector when the only -values not equal to zero belong the same energy 
+=====13=====
+, so that can be factored out . In many real-world application this is the case and the state vector ( containing time only in its phase factor ) is then a solution of the time-independent 
+=====26=====
+Schrödinger equation . Let and be degenerate eigenstates of the time-independent Hamiltonian : Suppose at t = 0 a solution of the full Schrödinger equation has the form then Conclusion 
+: The wavefunction with the given initial condition ( its form at t = 0 ) , remains a solution of the time-independent Schrödinger equation for all times t . ^ In fact also an initial 
+=====3=====
+condition must be used here . At time zero the wavefunction must be an eigenstate of H . The state space of certain quantum systems can be spanned with a position basis . In this situation , 
+=====34=====
+the Schrödinger equation may be conveniently reformulated as a partial differential equation for a wavefunction , a complex scalar field that depends on position as well as time . This form of 
+=====52=====
+the Schrödinger equation is referred to as the Schrödinger wave equation . Elements of the position basis are called position eigenstates . We will consider only a single-particle system , 
+=====30=====
+for which each position eigenstate may be denoted by , where the label is a real vector . This is to be interpreted as a state in which the particle is localized at position . In this case 
+=====51=====
+, the state space is the space of all square-integrable complex functions . We define the wavefunction as the projection of the state vector onto the position basis : Since the position 
+=====19=====
+eigenstates form a basis for the state space , the integral over all projection operators is the identity operator : This statement is called the resolution of the identity . With this , 
+=====9=====
+and the fact that kets have unit norm , we can show that where denotes the complex conjugate of . This important result tells us that the absolute square of the wavefunction , integrated over 
+=====38=====
+all space , must be equal to 1 : We can thus interpret the absolute square of the wavefunction as the probability density for the particle to be found at each point in space . In other words 
+=====21=====
+, is the probability , at time t , of finding the particle in the infinitesimal region of volume surrounding the position . We have previously shown that energy eigenstates vary only by a 
+=====48=====
+complex phase as time progresses . Therefore , the absolute square of their wavefunctions do not change with time . Energy eigenstates thus correspond to static probability distributions . 
+=====4=====
+Any operator A acting on the wavefunction is defined in the position basis by The operators A on the two sides of the equation are different things : the one on the right acts on kets 
+, whereas the one on the left acts on scalar fields . It is common to use the same symbols to denote operators acting on kets and their projections onto a basis . Usually , the kind of 
+=====33=====
+operator to which one is referring is apparent from the context , but this is a possible source of confusion . Using the position-basis notation , the Schrödinger equation can be written 
+=====18=====
+as This form of the Schrödinger equation is the Schrödinger wave equation . It may appear that this is an ordinary differential equation , but in fact the Hamiltonian operator typically 
+=====40=====
+includes partial derivatives with respect to the position variable . This usually leaves us with a difficult linear partial differential equation to solve . In non-relativistic quantum 
+=====15=====
+mechanics , the Hamiltonian of a particle can be expressed as the sum of two operators , one corresponding to kinetic energy and the other to potential energy . The Hamiltonian of a particle 
+=====53=====
+with no electric charge and no spin in this case is : where is the kinetic energy operator , m is the mass of the particle , is the momentum operator , is the potential energy operator , 
+=====16=====
+V is a real scalar function of the position operator , is the gradient operator , and is the Laplace operator . This is a commonly encountered form of the Schrödinger wave equation , 
+=====35=====
+though not the most general one . The corresponding time-independent equation is The relativistic generalisations of this wave equation are the Dirac equation , Klein-Gordon equation , 
+Proca equation , Maxwell equations etc , depending on spin and mass of the particle . See relativistic wave equations for details . In order to describe how probability density changes 
+=====1=====
+with time , it is acceptable to define probability current or probability flux . The probability flux represents a flowing of probability across space . For example , consider a Gaussian 
+=====50=====
+probability curve centered around x 0 with x 0 moving at speed v to the right . One may say that the probability is flowing toward right , i . e . , there is a probability flux directed to 
+=====46=====
+the right . The probability flux is defined as : and measured in units of ( probability ) / ( area × time ) = r −2 t −1 . The probability flux satisfies a quantum continuity equation , 
+i . e . : where is the probability density and measured in units of ( probability ) / ( volume ) = r −3 . This equation is the mathematical equivalent of probability conservation law 
+=====31=====
+. It is easy to show that for a plane wave , the probability flux is given by Analytical solutions of the time-independent Schrödinger equation can be obtained for a variety of relatively 
+=====5=====
+simple conditions . These solutions provide insight into the nature of quantum phenomena and sometimes provide a reasonable approximation of the behaviour of more complex systems ( e . g . , 
+=====39=====
+in statistical mechanics , molecular vibrations are often approximated as harmonic oscillators ) . Several of the more common analytical solutions include : The free particle The particle 
+=====25=====
+in a box The finite potential well The Delta function potential The particle in a ring The particle in a spherically symmetric potential The quantum harmonic oscillator The linear rigid 
+=====49=====
+rotor The symmetric top The hydrogen atom or hydrogen-like atom The ring wave guide The particle in a one-dimensional lattice ( periodic potential ) For many systems , however , there is no 
+=====12=====
+analytic solution to the Schrödinger equation . In these cases , one must resort to approximate solutions . Some of the common techniques are : Perturbation theory The variational principle 
+=====28=====
+underpins many approximate methods ( like the popular Hartree-Fock method which is the basis of the post Hartree-Fock methods ) Quantum Monte Carlo methods Density functional theory The 
+=====47=====
+WKB approximation discrete delta-potential method 
+=====0=====

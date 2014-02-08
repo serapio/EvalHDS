@@ -1,0 +1,7 @@
+filename	Florida_East_Coast_Railway.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Florida_East_Coast_Railway.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Florida_East_Coast_Railway.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Florida_East_Coast_Railway.txt.eos.tok
+judge	NONE

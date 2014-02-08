@@ -1,0 +1,7 @@
+filename	Bread.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Bread.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Bread.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Bread.txt.eos.tok
+judge	NONE

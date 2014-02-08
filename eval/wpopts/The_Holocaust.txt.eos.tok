@@ -1,0 +1,7 @@
+filename	The_Holocaust.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/The_Holocaust.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/The_Holocaust.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/The_Holocaust.txt.eos.tok
+judge	NONE

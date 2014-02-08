@@ -1,0 +1,7 @@
+filename	Iraq.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Iraq.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Iraq.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Iraq.txt.eos.tok
+judge	NONE

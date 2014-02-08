@@ -1,0 +1,7 @@
+filename	Cello.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Cello.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Cello.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Cello.txt.eos.tok
+judge	NONE

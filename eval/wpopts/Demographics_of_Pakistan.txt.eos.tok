@@ -1,0 +1,7 @@
+filename	Demographics_of_Pakistan.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Demographics_of_Pakistan.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Demographics_of_Pakistan.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Demographics_of_Pakistan.txt.eos.tok
+judge	NONE

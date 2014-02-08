@@ -1,0 +1,7 @@
+filename	Famine.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Famine.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Famine.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Famine.txt.eos.tok
+judge	NONE

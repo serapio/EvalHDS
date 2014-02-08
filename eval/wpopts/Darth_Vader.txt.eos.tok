@@ -1,0 +1,7 @@
+filename	Darth_Vader.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Darth_Vader.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Darth_Vader.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Darth_Vader.txt.eos.tok
+judge	NONE

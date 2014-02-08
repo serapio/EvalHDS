@@ -1,0 +1,7 @@
+filename	Edgar_Allan_Poe.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Edgar_Allan_Poe.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Edgar_Allan_Poe.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Edgar_Allan_Poe.txt.eos.tok
+judge	NONE

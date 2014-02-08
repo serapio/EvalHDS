@@ -1,0 +1,7 @@
+filename	John_F._Kennedy.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/John_F._Kennedy.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/John_F._Kennedy.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/John_F._Kennedy.txt.eos.tok
+judge	NONE

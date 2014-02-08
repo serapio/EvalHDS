@@ -1,0 +1,7 @@
+filename	Japanese_war_crimes.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Japanese_war_crimes.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Japanese_war_crimes.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Japanese_war_crimes.txt.eos.tok
+judge	NONE

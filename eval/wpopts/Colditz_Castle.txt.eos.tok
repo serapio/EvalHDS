@@ -1,0 +1,7 @@
+filename	Colditz_Castle.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Colditz_Castle.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Colditz_Castle.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Colditz_Castle.txt.eos.tok
+judge	NONE

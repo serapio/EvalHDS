@@ -1,0 +1,7 @@
+filename	Bretton_Woods_system.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Bretton_Woods_system.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Bretton_Woods_system.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Bretton_Woods_system.txt.eos.tok
+judge	NONE

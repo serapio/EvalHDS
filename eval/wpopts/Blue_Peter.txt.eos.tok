@@ -1,0 +1,7 @@
+filename	Blue_Peter.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Blue_Peter.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Blue_Peter.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Blue_Peter.txt.eos.tok
+judge	NONE

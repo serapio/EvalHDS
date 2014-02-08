@@ -1,0 +1,7 @@
+filename	Melbourne.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Melbourne.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Melbourne.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Melbourne.txt.eos.tok
+judge	NONE

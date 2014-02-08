@@ -1,0 +1,7 @@
+filename	Ordinary_differential_equation.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Ordinary_differential_equation.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Ordinary_differential_equation.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Ordinary_differential_equation.txt.eos.tok
+judge	NONE

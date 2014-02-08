@@ -1,0 +1,7 @@
+filename	Momentum.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Momentum.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Momentum.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Momentum.txt.eos.tok
+judge	NONE

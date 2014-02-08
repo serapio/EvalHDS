@@ -1,0 +1,7 @@
+filename	History_of_painting.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/History_of_painting.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/History_of_painting.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/History_of_painting.txt.eos.tok
+judge	NONE

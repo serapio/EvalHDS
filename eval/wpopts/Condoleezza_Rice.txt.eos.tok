@@ -1,0 +1,7 @@
+filename	Condoleezza_Rice.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Condoleezza_Rice.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Condoleezza_Rice.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Condoleezza_Rice.txt.eos.tok
+judge	NONE

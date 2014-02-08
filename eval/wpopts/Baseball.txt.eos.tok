@@ -1,0 +1,7 @@
+filename	Baseball.txt.eos.tok
+gold	/Users/lucien/Downloads/EvalHDS/wpgold/Baseball.txt.eos.tok
+
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/HC99_wp/Baseball.txt.eos.tok
+judge	HC99
+file	/Users/lucien/Downloads/EvalHDS/texts/segd/NONE_wp/Baseball.txt.eos.tok
+judge	NONE
